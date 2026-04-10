@@ -14,12 +14,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kareffe&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&custom_title=Linguagens%20mais%20utilizadas" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="center">🖥️Linguagens e Tecnologias</h2>
 
 ###
@@ -43,7 +37,13 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJtZWZmdzB4Ym41cXk3aTI3eXRsY3hiaW12azE5eDhza2ZncGNiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TrVla4Z2PYEkU/giphy.gif"  />
+  <img height="269" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNwOXdvc2h4cm1xcnQyNjRsOXluOXk3Y3E5cnFuMWdvd3J6bDJ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12tRnosTqs06nm/giphy.gif"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=70&section=footer&reversal=true&text=%E6%94%B9%E5%96%84&fontSize=45&fontColor=#B743DE&fontAlign=50&fontAlignY=56&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
 </div>
 
 ###
