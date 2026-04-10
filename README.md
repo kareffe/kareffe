@@ -22,7 +22,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="58" alt="java logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="58" alt="gamemakerstudio logo"  />
