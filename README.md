@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">👨‍🎓 Estudante de Ciência da Computação no 3° semestre<br>👨🏻‍💻 Foco em Desenvolvimento, Programação e GameDev<br>🧑🏻‍💼 Em busca de oportunidades de estágio para crescer na area de tecnologia</h4>
+<h4 align="left">👨‍🎓 Estudante de Ciência da Computação no 4° semestre<br>👨🏻‍💻 Foco em Desenvolvimento, Programação e GameDev<br>🧑🏻‍💼 Em busca de oportunidades de estágio para crescer na área de tecnologia</h4>
 
 ###
 
