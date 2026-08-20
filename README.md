@@ -2,8 +2,6 @@
 
 ###
 
-<img align="right" height="151" src="https://i.pinimg.com/originals/75/12/54/75125423dcd2a3bdf8ed9e41b1aa8c1b.gif"  />
-
 ###
 
 <h4 align="left">👨‍🎓 Estudante de Ciência da Computação no 3° semestre<br>👨🏻‍💻 Foco em Desenvolvimento, Programação e GameDev<br>🧑🏻‍💼 Em busca de oportunidades de estágio para crescer na area de tecnologia</h4>
@@ -39,10 +37,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="269" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNwOXdvc2h4cm1xcnQyNjRsOXluOXk3Y3E5cnFuMWdvd3J6bDJ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12tRnosTqs06nm/giphy.gif"  />
-</div>
 
 ###
 
