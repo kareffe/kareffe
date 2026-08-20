@@ -1,12 +1,6 @@
 <h1 align="center">👋 Olá! Eu sou o Kauan</h1>
 
-###
-
-###
-
 <h4 align="left">👨‍🎓 Estudante de Ciência da Computação no 4° semestre<br>👨🏻‍💻 Foco em Desenvolvimento, Programação e GameDev<br>🧑🏻‍💼 Em busca de oportunidades de estágio para crescer na área de tecnologia</h4>
-
-###
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -14,11 +8,7 @@
   <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="itch logo"  />
 </div>
 
-###
-
 <h2 align="center">🖥️Linguagens e Tecnologias</h2>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="58" alt="java logo"  />
@@ -36,12 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="58" alt="mysql logo"  />
 </div>
 
-###
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=70&section=footer&reversal=true&text=%E6%94%B9%E5%96%84&fontSize=45&fontColor=#B743DE&fontAlign=50&fontAlignY=56&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=radical"  />
 </div>
 
-###
